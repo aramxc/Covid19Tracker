@@ -2,9 +2,9 @@
 
 View App: https://covid19tracker-aramxc.herokuapp.com/
 
-A component basedvweb application that tracks daily Covid19 Data in the US.
+A component based web application that tracks daily Covid19 Data in the US along with global data for most countries.
 
-I do not take credit for creating this app froms scratch!
+I do not take credit for creating this app from scratch!
 
 This project was based off a tutorial from JavaScript Mastery - I followed the tutorial step-by-step to attempt to understand the concepts presented. I plan to expand on the project with additional features on my own eventually.
 

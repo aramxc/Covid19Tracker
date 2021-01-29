@@ -1,5 +1,7 @@
 # Covid19 Data Tracker
 
+View App: https://covid19tracker-aramxc.herokuapp.com/
+
 A component basedvweb application that tracks daily Covid19 Data in the US.
 
 I do not take credit for creating this app froms scratch!

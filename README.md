@@ -8,6 +8,8 @@ I do not take credit for creating this app from scratch!
 
 This project was based off a tutorial from JavaScript Mastery - I followed the tutorial step-by-step to attempt to understand the concepts presented. I plan to expand on the project with additional features on my own eventually.
 
+### The values for the US historical data is reversed! I need to take the time to dig into charts.js to understand why my data is presented inversely.. once I have an hour or two to sit down and work on this I plan on fixing this bug...
+
 ## Project Goal
 
 My goal for this project is to further develop my web development skills, become more familiar with React, and build a relevant web application using real time Covid19 Data.

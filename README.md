@@ -8,7 +8,7 @@ I do not take credit for creating this app from scratch!
 
 This project was based off a tutorial from JavaScript Mastery - I followed the tutorial step-by-step to attempt to understand the concepts presented. I plan to expand on the project with additional features on my own eventually.
 
-### The values for the US historical data is reversed! I need to take the time to dig into charts.js to understand why my data is presented inversely.. once I have an hour or two to sit down and work on this I plan on fixing this bug...
+### The values for the US historical data are reversed! I need to take the time to dig into charts.js to understand why my data is presented inversely.. once I have an hour or two to sit down and work on this I plan on fixing this bug...
 
 ## Project Goal
 
